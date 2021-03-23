@@ -14,7 +14,7 @@
   4. HTML5, CSS3, SCSS, BEM.
   5. ООП, SOLID.
   6. Node.js, express, mondoDB.
-  7. Пишу юнит тесты на jest(нравится подход PDD).
+  7. Пишу юнит тесты на jest(нравится подход TDD).
   8. ionic, cordova.
 ```
 ## Мои достижения: 
