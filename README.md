@@ -1,2 +1,20 @@
-# my-profile
-readme about me
+# Добрый день, меня зовут Павел, я - фронтенд разработчик :raised_hand:
+## Пару слов обо мне:
+    Люблю творить, создавать что то свое с помощь веб-разработки :fire:.
+    Каждый день учусь, изучаю новые технологии, читаю "Вы не знаете js", слежу за трендами в мире фронтенда :notebook:.
+    Совершенствую свои навыки, хочу стать senior-разработчиком :mortar_board:.
+    Стремлюсь писать чистый код, люблю рефакторинг :heart:.
+####
+ Коротко о том, что я умею:
+``` javascript
+  1. Javascript(ES6), webpack, babel.
+  2. React, React-native, Redux(redux-thunk, redux-saga).
+  3. HTML5, CSS3, SCSS, BEM.
+  3. ООП, SOLID.
+  4. Node.js, express, mondoDB.
+  5. Пишу юнит тесты на jest(нравится подход PDD).
+  6. ionic, cordova.
+```
+
+
+
