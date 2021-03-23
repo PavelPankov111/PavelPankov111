@@ -16,6 +16,10 @@
   5. Пишу юнит тесты на jest(нравится подход PDD).
   6. ionic, cordova.
 ```
+### Контакты:
+1. [Резюме](https://spb.hh.ru/resume/c830cea6ff083e8f270039ed1f33594a6c7663)
+2. [telegram](http://t.me/pa_p_v)
+```
 
 
 
