@@ -13,7 +13,7 @@
   3. React, React-native, Redux(redux-thunk, redux-saga).
   4. Next.js
   5. HTML5, CSS3, SCSS, BEM.
-  6. ООП, SOLID.
+  6. ООП.
   7. Node.js, express, mondoDB, GraphQl.
   8. Пишу юнит тесты на jest(нравится подход TDD).
   9. ionic, cordova.
