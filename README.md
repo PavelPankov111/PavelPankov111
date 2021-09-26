@@ -10,13 +10,13 @@
 ``` javascript
   1. Учиться
   2. Javascript(ES6), webpack, babel.
-  3. React, React-native, Redux(redux-thunk, redux-saga).
+  3. React, Redux(redux-thunk, redux-saga).
   4. Next.js
   5. HTML5, CSS3, SCSS, BEM.
-  6. ООП.
-  7. Node.js, express, mondoDB, GraphQl, PostgreSql.
+  6. ООП, SOLID, ФП.
+  7. Node.js, express, koa.js, mondoDB, GraphQl, PostgreSql.
   8. Пишу юнит тесты на jest(нравится подход TDD).
-  9. ionic, cordova.
+  9. ionic, cordova, react-native.
 ```
 ## Мои достижения: 
 * _Закончил курс я.практикума по специальности "веб-разработчик"_ :star:.
